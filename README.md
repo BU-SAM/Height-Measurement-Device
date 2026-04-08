@@ -1,6 +1,6 @@
 # Height Measurement Device (Using a Time of Flight (ToF) sensor and a 128px by 64px OLED screen)
 
-# Overview
+## Overview
 
 This project is a compact embedded system designed to measure height using a Time-of-Flight (ToF) distance sensor and display the result in real-time on an OLED screen. It is built using a microcontroller (ESP32) and optimized for accuracy and responsiveness.
 It works by detecting the distance between an object and the TOF sensor then deducting that value from the total height i.e the distance between TOF and ground, then display's it on the OLED screen. 
