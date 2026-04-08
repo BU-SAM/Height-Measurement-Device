@@ -105,7 +105,7 @@ NOTE: The sensor should be placed at the roof facing down
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add calibration feature
 * Battery-powered portable design
